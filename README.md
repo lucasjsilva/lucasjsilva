@@ -1,6 +1,6 @@
 ## Prazer, eu sou o Lucas José!
 
-- 🔭 Trabalhando com C++ e Garfield++
+- 🔭 Trabalhando com física nuclear de altas energias e simulações em detectores GEM
 - 🌱 Estudando: Data Science
 - 📫 Contate-me no e-mail: lucasjf.silva@hotmail.com
 - 😄 Pronomes: ele/dele
