@@ -1,4 +1,4 @@
-## Prazer, eu sou o Lucas José!
+## Hello, I'm Lucas José!
 
 - 🔭 I'm currently working with nuclear physics and simulations on GEM detectors
 - 🌱 I'm studying: Data Science
