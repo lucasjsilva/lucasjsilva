@@ -1,6 +1,6 @@
 ## Hello, I'm Lucas José!
 
-- 🔭 I'm currently working with nuclear physics and simulations on GEM detectors
+- 🔭 I'm currently working as Consultant in the technology field
 - 🌱 I'm studying: Data Science
 - 📫 Send me an e-mail on: lucasjf.silva@hotmail.com
 - 😄 Pronoums: he/him
