@@ -1,13 +1,13 @@
 ## Hello, I'm Lucas José!
 
-- 🔭 I'm currently working as Consultant in the technology field
-- 🌱 I'm studying: Data Science
+- 🔭 I'm Physicist
+- 🌱 I'm studying hadronic interactions
 - 📫 Send me an e-mail on: lucasjf.silva@hotmail.com
 - 😄 Pronoums: he/him
 
 <div align="left">
   <a href="https://github.com/lucasjsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjsilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Languages and Tools
