@@ -1,7 +1,7 @@
 ## Hello, I'm Lucas José!
 
 - 🔭 I'm Physicist
-- 🌱 I'm studying hadronic interactions
+- 🌱 I'm studying multiplicity distribution in hadronic collisions
 - 📫 Send me an e-mail on: lucasjf.silva@hotmail.com
 - 😄 Pronoums: he/him
 
